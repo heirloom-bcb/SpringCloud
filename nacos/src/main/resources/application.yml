@@ -11,3 +11,6 @@ spring:
       discovery:
         #??nacos server???
         server-addr: localhost:8848
+        #元数据的设置
+#        metadata:
+#          instance:
